@@ -5,7 +5,7 @@
 # Site
 title: Dwy
 subtitle: 学习笔记
-description: 学习笔记
+description: 不积跬步，无以至千里；不积小流，无以成江海。
 keywords: Linux、PHP、Golang、服务端
 author: Dwy
 # zh-CN zh-Hansen
@@ -14,7 +14,7 @@ timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://showlz.com
+url: http://blog.showlz.com
 root: /
 # permalink: :year/:month/:day/:title/
 permalink: posts/:title
@@ -109,4 +109,4 @@ deploy:
   type: git
   repo: https://github.com/dwyo/dwyo.git
   branch: master
-  message: 初始化博客
+  message: 

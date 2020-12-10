@@ -16,6 +16,7 @@ hexo init dwyo@github.io
  npm install hexo-renderer-pug hexo-renderer-stylus --save
  # git 部署插件
  npm install hexo-deployer-git --save
+```
 
 - 创作新文章
 ```sh
